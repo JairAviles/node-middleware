@@ -1,0 +1,30 @@
+{
+  "name": "node-middleware",
+  "version": "0.0.1",
+  "description": "Simple node middleware examples",
+  "main": "ejemplo9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JairAviles/node-middleware.git"
+  },
+  "keywords": [
+    "node",
+    "middleware",
+    "example",
+    "connect",
+    "hapi"
+  ],
+  "author": "Jair Israel Avilés Eusebio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JairAviles/node-middleware/issues"
+  },
+  "homepage": "https://github.com/JairAviles/node-middleware#readme",
+  "dependencies": {
+    "connect": "^3.4.0"
+  },
+  "devDependencies": {}
+}
